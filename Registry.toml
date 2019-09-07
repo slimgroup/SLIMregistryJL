@@ -1,6 +1,6 @@
-name = "SLIMregistry"
+name = "SLIM-Julia-registry"
 uuid = "f7f9b540-d1a6-11e9-1db1-8fb8d0821f2f"
-repo = "https://github.com/slimgroup/SLIMregistry.git"
+repo = "https://github.com/slimgroup/SLIM-Julia-registry.git"
 
 description = """
 Official general Julia package registry where people can
