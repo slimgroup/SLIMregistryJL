@@ -1,0 +1,13 @@
+name = "SLIMregistry"
+uuid = "f7f9b540-d1a6-11e9-1db1-8fb8d0821f2f"
+repo = "https://github.com/slimgroup/SLIMregistry.git"
+
+description = """
+Official general Julia package registry where people can
+register any package they want without too much debate about
+naming and without enforced standards on documentation or
+testing. We nevertheless encourage documentation, testing and
+some amount of consideration when choosing package names.
+"""
+
+[packages]
