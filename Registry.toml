@@ -11,3 +11,4 @@ some amount of consideration when choosing package names.
 """
 
 [packages]
+bb331ad6-a1cf-11e9-23da-9bcb53c69f6f = {name = "JOLI", path = "JOLI"}
