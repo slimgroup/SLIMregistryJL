@@ -1,4 +1,4 @@
-[0]
+[0.7]
 Distributed = "8ba89e20-285c-5b6f-9357-94700520ee1b"
 DistributedArrays = "aaf54ef3-cdf8-58ed-94cc-d582ad619b94"
 FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
