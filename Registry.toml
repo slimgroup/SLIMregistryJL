@@ -12,3 +12,4 @@ some amount of consideration when choosing package names.
 
 [packages]
 bb331ad6-a1cf-11e9-23da-9bcb53c69f6f = {name = "JOLI", path = "JOLI"}
+c228d1c8-a1cf-11e9-3cb4-9bd0a4cd14fc = {name = "JOLI4Flux", path = "JOLI4Flux"}
