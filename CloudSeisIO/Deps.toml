@@ -1,0 +1,5 @@
+["0.7"]
+AWSCore = "4f1ea46c-232b-54a6-9b17-cc2d0f3e6598"
+AWSS3 = "1c724243-ef5b-51ab-93f4-b0a88ac62a95"
+Retry = "20febd7b-183b-5ae2-ac4a-720e7ce64774"
+SeisIO = "7f75f292-7034-11e9-3579-f32821507df7"
