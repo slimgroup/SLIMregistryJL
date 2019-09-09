@@ -13,6 +13,7 @@ some amount of consideration when choosing package names.
 [packages]
 bb331ad6-a1cf-11e9-23da-9bcb53c69f6f = {name = "JOLI", path = "JOLI"}
 c228d1c8-a1cf-11e9-3cb4-9bd0a4cd14fc = {name = "JOLI4Flux", path = "JOLI4Flux"}
+f3b833dc-6b2e-5b9c-b940-873ed6319979 = {name = "JUDI", path = "JUDI"}
 7f75f292-7034-11e9-3579-f32821507df7 = {name = "SeisIO", path = "SeisIO"}
 46767539-6b09-4d43-90af-09e8ecbe3fb9 = {name = "GenSPGL", path = "GenSPGL"}
 ec01cecc-7e11-4d3c-aa64-6742d033dd8e = {name = "CloudExtras", path = "CloudExtras"}
