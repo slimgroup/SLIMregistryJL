@@ -14,4 +14,6 @@ The registry with our most commonly used packages that are not in General Julia 
 
 - Check Registry.toml for Registered Packages
 
+## Registering packages ##
 
+The process is manual, so Slack Henryk to coordinate.
