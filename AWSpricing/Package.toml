@@ -1,0 +1,3 @@
+name = "AWSpricing"
+uuid = "85339ca7-91d8-4c2d-a861-347188ab7890"
+repo = "https://github.com/slimgroup/AWSpricing.jl.git"
