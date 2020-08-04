@@ -4,11 +4,11 @@ The registry with our most commonly used packages that are not in General Julia 
 
 ## Add Using Pkg  package ##
 
-	Pkg.Registry.add(RegistrySpec(url=“https://github.com/slimgroup/SLIMregistryJL.git”))
+	Pkg.Registry.add(RegistrySpec(url=“https://Github.com/slimgroup/SLIMregistryJL.git”))
 
 ## Add Using Package Manager ']' ##
 
-	registry add https://github.com/slimgroup/SLIMregistryJL.git
+	registry add https://Github.com/slimgroup/SLIMregistryJL.git
 
 ## Registering packages ##
 
