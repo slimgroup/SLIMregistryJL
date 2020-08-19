@@ -19,3 +19,4 @@ ec01cecc-7e11-4d3c-aa64-6742d033dd8e = {name = "CloudExtras", path = "CloudExtra
 1a9a6158-f1f5-11e9-0746-05ab7d8dcde1 = {name = "RCAM", path = "RCAM"}
 85339ca7-91d8-4c2d-a861-347188ab7890 = {name = "AWSpricing", path = "AWSpricing"}
 5fa294d4-f0dc-471b-88de-57e817637ec8 = {name = "SLIMutils", path = "SLIMutils"}
+363a0a50-1aeb-4766-9f9a-4115982678af = {name = "TimeLapse", path = "TimeLapse"}
