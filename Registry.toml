@@ -21,4 +21,4 @@ ec01cecc-7e11-4d3c-aa64-6742d033dd8e = {name = "CloudExtras", path = "CloudExtra
 5fa294d4-f0dc-471b-88de-57e817637ec8 = {name = "SLIMutils", path = "SLIMutils"}
 363a0a50-1aeb-4766-9f9a-4115982678af = {name = "TimeLapse", path = "TimeLapse"}
 335f7d24-6316-57dd-9c3a-df470f2b739e = {name = "SetIntersectionProjection", path = "SetIntersectionProjection"}
-e4c7bc62-5b23-4522-a1b9-71c2be45f1df = {name = = "SlimOptim", path = "SlimOptim"}
+e4c7bc62-5b23-4522-a1b9-71c2be45f1df = {name = "SlimOptim", path = "SlimOptim"}
