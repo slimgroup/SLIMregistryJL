@@ -18,6 +18,7 @@ SLIM's (slim.gatech.edu) Julia package registry.
 5fa294d4-f0dc-471b-88de-57e817637ec8 = { name = "SLIMutils", path = "SLIMutils" }
 64d089a9-642e-40bf-b992-0fb13636391a = { name = "JUDI4Flux", path = "JUDI4Flux" }
 85339ca7-91d8-4c2d-a861-347188ab7890 = { name = "AWSpricing", path = "AWSpricing" }
+86b14660-f398-487d-b6db-368cb21722f4 = { name = "ExtendedConv", path = "E/ExtendedConv" }
 b7115f24-5f92-4794-81e8-23b0ddb121d3 = { name = "InvertibleNetworks", path = "InvertibleNetworks" }
 bb331ad6-a1cf-11e9-23da-9bcb53c69f6f = { name = "JOLI", path = "JOLI" }
 c228d1c8-a1cf-11e9-3cb4-9bd0a4cd14fc = { name = "JOLI4Flux", path = "JOLI4Flux" }
