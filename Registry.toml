@@ -13,6 +13,7 @@ SLIM's (slim.gatech.edu) Julia package registry.
 1a9a6158-f1f5-11e9-0746-05ab7d8dcde1 = { name = "RCAM", path = "R/RCAM" }
 23f7647f-51ad-45b5-ae2a-ffae49347e76 = { name = "CloudSegyIO", path = "C/CloudSegyIO" }
 335f7d24-6316-57dd-9c3a-df470f2b739e = { name = "SetIntersectionProjection", path = "S/SetIntersectionProjection" }
+355d8124-6b2e-49b5-aab5-cdbc0a5fccbe = { name = "ImageGather", path = "I/ImageGather" }
 363a0a50-1aeb-4766-9f9a-4115982678af = { name = "TimeLapse", path = "T/TimeLapse" }
 46767539-6b09-4d43-90af-09e8ecbe3fb9 = { name = "GenSPGL", path = "G/GenSPGL" }
 5fa294d4-f0dc-471b-88de-57e817637ec8 = { name = "SLIMutils", path = "S/SLIMutils" }
