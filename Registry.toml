@@ -7,7 +7,6 @@ SLIM's (slim.gatech.edu) Julia package registry.
 """
 
 [packages]
-157a0f19-4d44-4de5-a0d0-07e2f0ac4dfa = { name = "SegyIO", path = "S/SegyIO" }
 1749d201-7e2c-4f32-afd0-28b1f357fcf8 = { name = "SeisJOLI", path = "S/SeisJOLI" }
 18c18004-47a8-40a1-968a-d4ba0015730b = { name = "XConv", path = "X/XConv" }
 1a9a6158-f1f5-11e9-0746-05ab7d8dcde1 = { name = "RCAM", path = "R/RCAM" }
@@ -22,6 +21,5 @@ SLIM's (slim.gatech.edu) Julia package registry.
 86b14660-f398-487d-b6db-368cb21722f4 = { name = "ExtendedConv", path = "E/ExtendedConv" }
 c228d1c8-a1cf-11e9-3cb4-9bd0a4cd14fc = { name = "JOLI4Flux", path = "J/JOLI4Flux" }
 cd417b76-fc6b-4228-be91-94f5ea77264b = { name = "TimeProbeSeismic", path = "T/TimeProbeSeismic" }
-e4c7bc62-5b23-4522-a1b9-71c2be45f1df = { name = "SlimOptim", path = "S/SlimOptim" }
 ec01cecc-7e11-4d3c-aa64-6742d033dd8e = { name = "CloudExtras", path = "C/CloudExtras" }
 f3b833dc-6b2e-5b9c-b940-873ed6319979 = { name = "JUDI", path = "J/JUDI" }
