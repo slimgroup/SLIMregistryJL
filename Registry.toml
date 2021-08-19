@@ -11,7 +11,6 @@ SLIM's (slim.gatech.edu) Julia package registry.
 18c18004-47a8-40a1-968a-d4ba0015730b = { name = "XConv", path = "X/XConv" }
 1a9a6158-f1f5-11e9-0746-05ab7d8dcde1 = { name = "RCAM", path = "R/RCAM" }
 23f7647f-51ad-45b5-ae2a-ffae49347e76 = { name = "CloudSegyIO", path = "C/CloudSegyIO" }
-335f7d24-6316-57dd-9c3a-df470f2b739e = { name = "SetIntersectionProjection", path = "S/SetIntersectionProjection" }
 355d8124-6b2e-49b5-aab5-cdbc0a5fccbe = { name = "ImageGather", path = "I/ImageGather" }
 363a0a50-1aeb-4766-9f9a-4115982678af = { name = "TimeLapse", path = "T/TimeLapse" }
 46767539-6b09-4d43-90af-09e8ecbe3fb9 = { name = "GenSPGL", path = "G/GenSPGL" }
@@ -22,4 +21,3 @@ SLIM's (slim.gatech.edu) Julia package registry.
 c228d1c8-a1cf-11e9-3cb4-9bd0a4cd14fc = { name = "JOLI4Flux", path = "J/JOLI4Flux" }
 cd417b76-fc6b-4228-be91-94f5ea77264b = { name = "TimeProbeSeismic", path = "T/TimeProbeSeismic" }
 ec01cecc-7e11-4d3c-aa64-6742d033dd8e = { name = "CloudExtras", path = "C/CloudExtras" }
-f3b833dc-6b2e-5b9c-b940-873ed6319979 = { name = "JUDI", path = "J/JUDI" }
