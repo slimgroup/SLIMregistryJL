@@ -21,3 +21,4 @@ SLIM's (slim.gatech.edu) Julia package registry.
 c228d1c8-a1cf-11e9-3cb4-9bd0a4cd14fc = { name = "JOLI4Flux", path = "J/JOLI4Flux" }
 cd417b76-fc6b-4228-be91-94f5ea77264b = { name = "TimeProbeSeismic", path = "T/TimeProbeSeismic" }
 ec01cecc-7e11-4d3c-aa64-6742d033dd8e = { name = "CloudExtras", path = "C/CloudExtras" }
+f6d04670-764e-495b-a720-91c3c9a588ff = { name = "SlimPlotting", path = "S/SlimPlotting" }
