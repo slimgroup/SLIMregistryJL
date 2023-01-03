@@ -10,15 +10,11 @@ SLIM's (slim.gatech.edu) Julia package registry.
 1749d201-7e2c-4f32-afd0-28b1f357fcf8 = { name = "SeisJOLI", path = "S/SeisJOLI" }
 18c18004-47a8-40a1-968a-d4ba0015730b = { name = "XConv", path = "X/XConv" }
 1a9a6158-f1f5-11e9-0746-05ab7d8dcde1 = { name = "RCAM", path = "R/RCAM" }
-23f7647f-51ad-45b5-ae2a-ffae49347e76 = { name = "CloudSegyIO", path = "C/CloudSegyIO" }
 355d8124-6b2e-49b5-aab5-cdbc0a5fccbe = { name = "ImageGather", path = "I/ImageGather" }
 363a0a50-1aeb-4766-9f9a-4115982678af = { name = "TimeLapse", path = "T/TimeLapse" }
 46767539-6b09-4d43-90af-09e8ecbe3fb9 = { name = "GenSPGL", path = "G/GenSPGL" }
 5fa294d4-f0dc-471b-88de-57e817637ec8 = { name = "SLIMutils", path = "S/SLIMutils" }
-64d089a9-642e-40bf-b992-0fb13636391a = { name = "JUDI4Flux", path = "J/JUDI4Flux" }
 85339ca7-91d8-4c2d-a861-347188ab7890 = { name = "AWSpricing", path = "A/AWSpricing" }
 86b14660-f398-487d-b6db-368cb21722f4 = { name = "ExtendedConv", path = "E/ExtendedConv" }
-c228d1c8-a1cf-11e9-3cb4-9bd0a4cd14fc = { name = "JOLI4Flux", path = "J/JOLI4Flux" }
-cd417b76-fc6b-4228-be91-94f5ea77264b = { name = "TimeProbeSeismic", path = "T/TimeProbeSeismic" }
 ec01cecc-7e11-4d3c-aa64-6742d033dd8e = { name = "CloudExtras", path = "C/CloudExtras" }
 f6d04670-764e-495b-a720-91c3c9a588ff = { name = "SlimPlotting", path = "S/SlimPlotting" }

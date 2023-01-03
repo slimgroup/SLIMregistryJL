@@ -1,6 +1,0 @@
-["0.7"]
-AWSCore = "4f1ea46c-232b-54a6-9b17-cc2d0f3e6598"
-AWSS3 = "1c724243-ef5b-51ab-93f4-b0a88ac62a95"
-Retry = "20febd7b-183b-5ae2-ac4a-720e7ce64774"
-SegyIO = "157a0f19-4d44-4de5-a0d0-07e2f0ac4dfa"
-Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
